@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the classification of Electromyography (EMG) signals. EMG data from multiple channels are processed, filtered, normalized, and then divided into windows for feature extraction. The extracted features are used to train classification models, including **K-Nearest Neighbors (KNN)** and **Random Forest (RF)** models, for predicting specific muscle activations based on the input EMG data.
+This project is for Biomedical Engineering Fundamentals course and focuses on the classification of Electromyography (EMG) signals. EMG data from multiple channels are processed, filtered, normalized, and then divided into windows for feature extraction. The extracted features are used to train classification models, including **K-Nearest Neighbors (KNN)** and **Random Forest (RF)** models, for predicting specific muscle activations based on the input EMG data.
 
 ## Project Structure
 
